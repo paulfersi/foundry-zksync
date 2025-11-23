@@ -55,3 +55,9 @@ shall be dual licensed as above, without any additional terms or conditions.
 
 ### Foundry ZKsync
 - [Moonsong Labs](https://moonsonglabs.com/): Implemented [ZKsync crates](./crates/zksync/), and resolved a number of different challenges to enable ZKsync support. 
+
+
+
+----- 
+
+For MacOS -> need libusb to compile (it's a dependency of LLVM)
